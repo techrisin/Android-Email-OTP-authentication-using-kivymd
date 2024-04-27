@@ -4,4 +4,4 @@ The apk built can be downloaded from [this link](https://drive.google.com/file/d
 
 Python code is converted to a android app using python for android 
 
-Full text based tutorial and video explanation of this app is available at [https://techris.in/t1z](https://techris.in/t1z)
+Full text based tutorial and video explanation of this app is available at [https://techris.in/apps/android-email-otp-authentication-tutorial-using-kivymd.html](https://techris.in/apps/android-email-otp-authentication-tutorial-using-kivymd.html)
